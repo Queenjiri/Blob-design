@@ -453,7 +453,7 @@ b{
     padding:40px;
 }
 .box-grid{
-    width:200px;
+    width:250px;
     text-align: center;
     height:20vh;
 
@@ -464,7 +464,7 @@ b{
     color:#fff;
 }
 .second-grid{
-    width:200px;
+    width: 250px;
     font-size: 15px;
     padding: 15px;
     text-align: center;
@@ -480,7 +480,7 @@ b{
     display: flex; 
 }
 .manage-box{
-    width:200px;
+    width:250px;
     text-align: center;
     height:20vh;;
 color:#fff;
@@ -490,7 +490,7 @@ color:#fff;
     background-color: rgb(173, 171, 26);
 }
 .manage-one{
-    width:200px;
+    width:250px;
     text-align: center;
     height:20vh;
 
